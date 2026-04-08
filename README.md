@@ -59,8 +59,4 @@ In separate terminals:
 - `POST /api/users/follow/:id` - Follow/unfollow a user
 
 ## Deployment
-This app is ready for deployment to Heroku and MongoDB Atlas.
-1. Set up a MongoDB Atlas cluster.
-2. Create a Heroku app.
-3. Add the environment variables to Heroku.
-4. Push to Heroku: `git push heroku main`
+https://breakout-area.onrender.com/
