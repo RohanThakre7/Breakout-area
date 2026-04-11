@@ -10,10 +10,15 @@ A production-ready social media app built with the MERN stack.
 - **Search**: Search for users and posts.
 - **Responsive UI**: Mobile-first design using Tailwind CSS.
 
+  <img width="1363" height="856" alt="image" src="https://github.com/user-attachments/assets/01aaaf25-8135-462e-b0d9-797a431eb05f" />
+
+
 ## Tech Stack
 - **Frontend**: React, Redux Toolkit, Tailwind CSS, Lucide Icons.
 - **Backend**: Node.js, Express, MongoDB (Mongoose), Socket.IO.
 - **Auth**: JWT-based authentication.
+  <img width="1007" height="762" alt="image" src="https://github.com/user-attachments/assets/8eb5658e-f9a9-4580-b56d-69eadf399102" />
+
 
 ## Setup Instructions
 
